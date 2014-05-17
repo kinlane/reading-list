@@ -1,0 +1,12 @@
+---
+layout: post
+title: Production vs Development Apps
+url: http://blog.parse.com/2014/03/31/production-vs-development-apps/
+source: http://blog.parse.com/2014/03/31/production-vs-development-apps/
+domain: blog.parse.com
+image: 
+---
+
+<p></p>
+<center><p><a href="http://blog.parse.com/2014/03/31/production-vs-development-apps/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

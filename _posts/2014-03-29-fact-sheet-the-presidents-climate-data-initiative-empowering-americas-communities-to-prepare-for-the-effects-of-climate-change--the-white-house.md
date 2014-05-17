@@ -1,0 +1,12 @@
+---
+layout: post
+title: FACT SHEET: The President’s Climate Data Initiative: Empowering America’s Communities to Prepare for the Effects of Climate Change | The White House
+url: http://www.whitehouse.gov/the-press-office/2014/03/19/fact-sheet-president-s-climate-data-initiative-empowering-america-s-comm
+source: http://www.whitehouse.gov/the-press-office/2014/03/19/fact-sheet-president-s-climate-data-initiative-empowering-america-s-comm
+domain: www.whitehouse.gov
+image: 
+---
+
+<p></p>
+<center><p><a href="http://www.whitehouse.gov/the-press-office/2014/03/19/fact-sheet-president-s-climate-data-initiative-empowering-america-s-comm" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

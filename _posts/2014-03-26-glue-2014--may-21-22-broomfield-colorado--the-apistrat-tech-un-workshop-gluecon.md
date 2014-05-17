@@ -1,0 +1,12 @@
+---
+layout: post
+title: Glue 2014 – May 21 22 Broomfield Colorado – The APIStrat Tech Un Workshop Gluecon
+url: http://www.gluecon.com/2014/apistrat-tech-un-workshop-gluecon/
+source: http://www.gluecon.com/2014/apistrat-tech-un-workshop-gluecon/
+domain: www.gluecon.com
+image: 
+---
+
+<p></p>
+<center><p><a href="http://www.gluecon.com/2014/apistrat-tech-un-workshop-gluecon/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

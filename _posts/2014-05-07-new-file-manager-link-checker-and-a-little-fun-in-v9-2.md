@@ -1,0 +1,12 @@
+---
+layout: post
+title: New File Manager Link Checker and a Little Fun in v9 2
+url: http://blog.mailchimp.com/new-file-manager-link-checker-and-a-little-fun-in-v9-2/
+source: http://blog.mailchimp.com/new-file-manager-link-checker-and-a-little-fun-in-v9-2/
+domain: blog.mailchimp.com
+image: 
+---
+
+<p></p>
+<center><p><a href="http://blog.mailchimp.com/new-file-manager-link-checker-and-a-little-fun-in-v9-2/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+
