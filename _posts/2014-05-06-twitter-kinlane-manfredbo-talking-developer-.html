@@ -1,9 +1,0 @@
----
-layout: post
-title: Twitter kinlane: ManfredBo talking developer 
-url: https://twitter.com/kinlane/status/463596359330050048/photo/1
-source: https://twitter.com/kinlane/status/463596359330050048/photo/1
-domain: twitter.com
-image: 
----
-

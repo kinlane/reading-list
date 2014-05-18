@@ -1,12 +1,0 @@
----
-layout: post
-title: Connecting SOA to the Cloud: Going Dutch upcoming Cloud and API events in the Netherlands over the next 10 days
-url: http://www.soatothecloud.com/2014/03/going-dutch-upcoming-cloud-and-api.html
-source: http://www.soatothecloud.com/2014/03/going-dutch-upcoming-cloud-and-api.html
-domain: www.soatothecloud.com
-image: 
----
-
-<p></p>
-<center><p><a href="http://www.soatothecloud.com/2014/03/going-dutch-upcoming-cloud-and-api.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
