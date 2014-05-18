@@ -6,12 +6,11 @@ title: API Evangelist Reading List
 <h1 class="title">API Evangelist Reading List</h1>
 <p>This is what I'm reading from week to week to stay in touch with the API space.</p>
 
-<!-- This loops through the paginated posts -->
 <div class="post">
     <ul>
         {% for post in paginator.posts %}
             
-            <li><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><strong>{{ post.title }}</strong></li>    
+            <li><a href="{{ post.source }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</li>    
         
         {% endfor %}
     </ul>
