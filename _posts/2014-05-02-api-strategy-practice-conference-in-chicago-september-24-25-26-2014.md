@@ -7,6 +7,3 @@ domain: apistrategyconference.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apistrategyconference.com/2014Chicago/contact-call-for-papers.php" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

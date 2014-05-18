@@ -7,6 +7,3 @@ domain: developer.pearson.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://developer.pearson.com/blog/introducing-the-pearson-coders-group-a-call-for-speakers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

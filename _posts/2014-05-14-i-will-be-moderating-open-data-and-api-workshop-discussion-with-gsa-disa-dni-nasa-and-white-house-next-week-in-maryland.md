@@ -7,6 +7,3 @@ domain: apievangelist.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apievangelist.com/2014/05/14/i-will-be-moderating-open-data-and-api-workshop-discussion-with--gsa-disa-dni-nasa-and-white-house-next-week-in-maryland/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

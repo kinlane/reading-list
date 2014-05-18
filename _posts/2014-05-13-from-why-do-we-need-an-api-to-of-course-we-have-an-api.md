@@ -7,6 +7,3 @@ domain: www.soatothecloud.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.soatothecloud.com/2014/05/from-why-do-we-need-api-to-of-course-we.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

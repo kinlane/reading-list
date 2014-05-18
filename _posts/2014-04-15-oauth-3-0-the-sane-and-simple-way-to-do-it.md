@@ -7,6 +7,3 @@ domain: tav.espians.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://tav.espians.com/oauth-3.0-the-sane-and-simple-way-to-do-it.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

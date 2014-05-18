@@ -7,6 +7,3 @@ domain: tech.transparency-initiative.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://tech.transparency-initiative.org/joe-foti-ogps-independent-reporting-mechanism-releases-beta-data-set/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

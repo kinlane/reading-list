@@ -7,6 +7,3 @@ domain: blog.factual.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.factual.com/what-do-you-drive" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

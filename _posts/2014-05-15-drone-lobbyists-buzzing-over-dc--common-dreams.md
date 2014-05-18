@@ -7,6 +7,3 @@ domain: www.commondreams.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://www.commondreams.org/headline/2014/05/14-0#.U3RPd_Z8Sko.twitter" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: gigaom.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://gigaom.com/2014/05/12/report-nsa-intercepts-us-made-servers-heading-overseas-to-install-surveillance-hooks/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

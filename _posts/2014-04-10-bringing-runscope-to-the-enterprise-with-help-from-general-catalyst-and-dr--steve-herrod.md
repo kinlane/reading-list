@@ -7,6 +7,3 @@ domain: blog.runscope.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.runscope.com/posts/100-continue" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

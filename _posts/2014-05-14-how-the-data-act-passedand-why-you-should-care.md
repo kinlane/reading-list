@@ -7,6 +7,3 @@ domain: www.dailydot.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.dailydot.com/politics/data-act-sunlight-foundation/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

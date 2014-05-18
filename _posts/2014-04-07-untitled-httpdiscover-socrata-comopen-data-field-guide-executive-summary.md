@@ -7,6 +7,3 @@ domain: discover.socrata.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://discover.socrata.com/Open-Data-Field-Guide-Executive-Summary" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

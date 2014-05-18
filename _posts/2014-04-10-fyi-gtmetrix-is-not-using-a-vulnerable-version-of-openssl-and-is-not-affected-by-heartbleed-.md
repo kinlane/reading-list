@@ -7,6 +7,3 @@ domain: gtmetrix.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://gtmetrix.com/#454402233023492097" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

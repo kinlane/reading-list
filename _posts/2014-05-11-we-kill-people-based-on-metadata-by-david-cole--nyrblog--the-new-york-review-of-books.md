@@ -7,6 +7,3 @@ domain: www.nybooks.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.nybooks.com/blogs/nyrblog/2014/may/10/we-kill-people-based-metadata/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

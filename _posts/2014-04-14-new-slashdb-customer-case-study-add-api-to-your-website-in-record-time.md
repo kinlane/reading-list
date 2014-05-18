@@ -7,6 +7,3 @@ domain: www.slashdb.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.slashdb.com/case10" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

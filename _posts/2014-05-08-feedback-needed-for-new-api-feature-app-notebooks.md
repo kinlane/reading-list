@@ -7,6 +7,3 @@ domain: blog.evernote.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.evernote.com/tech/2014/05/08/evernote-app-notebooks-beta/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

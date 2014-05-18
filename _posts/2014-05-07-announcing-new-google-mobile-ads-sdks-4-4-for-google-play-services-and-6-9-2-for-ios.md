@@ -7,6 +7,3 @@ domain: www.blogger.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://www.blogger.com/feeds/7815614485808579332/posts/default/5286533384977044545" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

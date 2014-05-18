@@ -7,6 +7,3 @@ domain: itunes.apple.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://itunes.apple.com/app/id602336025&mt=8/c=ts" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

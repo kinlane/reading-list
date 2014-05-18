@@ -7,6 +7,3 @@ domain: www.cloudave.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.cloudave.com/34510/apis-bridging-mobile-app-gap/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: www.twilio.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://www.twilio.com/blog/2014/05/meet-nicolas-grenie-a-twilio-hero-nt.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

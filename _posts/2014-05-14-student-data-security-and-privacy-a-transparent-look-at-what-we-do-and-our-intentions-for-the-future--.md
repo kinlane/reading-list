@@ -7,6 +7,3 @@ domain: blog.learnsprout.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.learnsprout.com/post/85765134566/student-data-security-and-privacy-a-transparent-look" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

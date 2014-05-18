@@ -7,6 +7,3 @@ domain: www.businessinsider.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.businessinsider.com/skeptics-question-the-looming-11b-upgrade-to-payment-card-security-2014-5" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

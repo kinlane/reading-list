@@ -7,6 +7,3 @@ domain: googlecloudplatform.blogspot.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://googlecloudplatform.blogspot.com/2014/05/announcing-google-cloud-storage-json.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

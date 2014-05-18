@@ -7,6 +7,3 @@ domain: www.socrata.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.socrata.com/blog/civic-awesome-open-data-news-april-11-2014/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

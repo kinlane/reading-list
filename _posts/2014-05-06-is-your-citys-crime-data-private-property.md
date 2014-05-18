@@ -7,6 +7,3 @@ domain: www.thecrimereport.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.thecrimereport.org/news/inside-criminal-justice/2014-05-is-your-citys-crime-data-private-property" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

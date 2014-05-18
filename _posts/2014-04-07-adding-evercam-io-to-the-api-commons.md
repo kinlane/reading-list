@@ -7,6 +7,3 @@ domain: apievangelist.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apievangelist.com/2014/04/07/adding-evercamio-to-the-api-commons/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

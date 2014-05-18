@@ -7,6 +7,3 @@ domain: www.businessinsider.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.businessinsider.com/google-now-helps-you-find-car-2014-5" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

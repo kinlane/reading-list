@@ -7,6 +7,3 @@ domain: www.forbes.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.forbes.com/sites/parmyolson/2014/04/30/facebok-moves-to-become-the-worlds-most-powerful-data-broker/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

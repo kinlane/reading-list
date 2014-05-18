@@ -7,6 +7,3 @@ domain: pages.restlet.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://pages.restlet.org/gigaom-kinlane" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

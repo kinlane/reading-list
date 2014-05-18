@@ -7,6 +7,3 @@ domain: www.businessinsider.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.businessinsider.com/stop-video-ads-from-playing-on-facebook-2014-4" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

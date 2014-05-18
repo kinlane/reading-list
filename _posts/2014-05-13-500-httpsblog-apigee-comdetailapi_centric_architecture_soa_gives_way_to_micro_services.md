@@ -7,6 +7,3 @@ domain: blog.apigee.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://blog.apigee.com/detail/api_centric_architecture_soa_gives_way_to_micro_services" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

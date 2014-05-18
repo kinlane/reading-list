@@ -7,6 +7,3 @@ domain: www.topcoder.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.topcoder.com/challenge-details/30042560/#.U2k5Sq1dXYd/type=development" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

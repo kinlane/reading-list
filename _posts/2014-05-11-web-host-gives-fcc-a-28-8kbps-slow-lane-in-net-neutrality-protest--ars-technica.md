@@ -7,6 +7,3 @@ domain: arstechnica.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://arstechnica.com/tech-policy/2014/05/web-host-gives-fcc-a-28-8kbps-slow-lane-in-net-neutrality-protest/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

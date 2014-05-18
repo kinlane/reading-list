@@ -7,6 +7,3 @@ domain: get.buto.tv
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://get.buto.tv/blog/worked-protect-buto-customers-heartbleed-bug/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

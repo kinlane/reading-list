@@ -7,6 +7,3 @@ domain: hackread.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://hackread.com/baby-monitor-hacked-by-hacker/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

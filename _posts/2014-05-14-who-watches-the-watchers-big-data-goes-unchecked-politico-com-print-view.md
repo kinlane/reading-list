@@ -7,6 +7,3 @@ domain: dyn.politico.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://dyn.politico.com/printstory.cfm/uuid=C28F8A14-002B-4854-AB39-BDBA82E31BF8" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: www.fullcontact.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.fullcontact.com/blog/fullcontact-business-card-reader-zapier/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

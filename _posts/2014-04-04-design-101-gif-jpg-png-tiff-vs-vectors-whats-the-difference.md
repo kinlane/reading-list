@@ -7,6 +7,3 @@ domain: blog.cutcaster.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.cutcaster.com/2014/04/04/design-101-gif-jpg-png-tiff-vs-vectors-whats-the-difference/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

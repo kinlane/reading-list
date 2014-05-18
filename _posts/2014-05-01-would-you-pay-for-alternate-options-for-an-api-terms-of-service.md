@@ -7,6 +7,3 @@ domain: apivoice.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apivoice.com/2014/05/01/would-you-pay-for-alternate-options-for-an-api-terms-of-service/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

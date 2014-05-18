@@ -1,0 +1,12 @@
+---
+layout: post
+title: API Inception Getting Twitter Data Via Gnip Through New Brandwatch API
+url: http://apievangelist.com/2014/03/21/api-inception-getting-twitter-data-via-gnip-through-new-brandwatch-api/
+source: http://apievangelist.com/2014/03/21/api-inception-getting-twitter-data-via-gnip-through-new-brandwatch-api/
+domain: apievangelist.com
+image: 
+---
+
+<p></p>
+<center><p><a href="http://apievangelist.com/2014/03/21/api-inception-getting-twitter-data-via-gnip-through-new-brandwatch-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+

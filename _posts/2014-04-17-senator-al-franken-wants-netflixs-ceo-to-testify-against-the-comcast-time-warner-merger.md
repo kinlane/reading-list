@@ -7,6 +7,3 @@ domain: www.businessinsider.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.businessinsider.com/senator-al-franken-letter-to-netflix-ceo-2014-4" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

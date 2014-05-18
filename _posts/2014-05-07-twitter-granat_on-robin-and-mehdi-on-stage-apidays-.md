@@ -7,6 +7,3 @@ domain: twitter.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://twitter.com/Granat_On/status/463847860660740098/photo/1" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

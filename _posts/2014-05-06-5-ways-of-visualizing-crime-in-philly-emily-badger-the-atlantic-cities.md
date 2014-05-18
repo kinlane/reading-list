@@ -7,6 +7,3 @@ domain: www.citylab.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.citylab.com/crime/2013/02/5-ways-visualizing-crime-philadelphia/4641/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

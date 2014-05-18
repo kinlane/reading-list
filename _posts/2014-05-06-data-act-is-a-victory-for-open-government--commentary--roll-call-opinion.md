@@ -7,6 +7,3 @@ domain: www.rollcall.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.rollcall.com/news/data_act_is_a_victory_for_open_government_commentary-232707-1.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

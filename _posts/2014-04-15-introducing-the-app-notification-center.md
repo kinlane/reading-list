@@ -7,6 +7,3 @@ domain: blog.wattpad.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.wattpad.com/introducing-the-app-notification-center/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

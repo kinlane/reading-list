@@ -7,6 +7,3 @@ domain: blog.mashape.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.mashape.com/post/82012325535/verticalresponse-joins-mashape" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

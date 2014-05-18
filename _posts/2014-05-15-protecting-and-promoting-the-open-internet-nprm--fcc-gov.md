@@ -7,6 +7,3 @@ domain: www.fcc.gov
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.fcc.gov/document/protecting-and-promoting-open-internet-nprm" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: blog.cancerapi.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.cancerapi.org/updated-http-blog-cancerapi-org-to-wordpress-3-8-2/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

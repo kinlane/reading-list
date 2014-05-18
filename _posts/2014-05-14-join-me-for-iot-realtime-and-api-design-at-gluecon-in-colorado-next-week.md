@@ -7,6 +7,3 @@ domain: apievangelist.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apievangelist.com/2014/05/14/join-me-for-iot-realtime-and-api-design-at-gluecon-in-colorado-next-week/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

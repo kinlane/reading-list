@@ -7,6 +7,3 @@ domain: marketingland.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://marketingland.com/facebooks-adds-apis-help-media-find-better-stories-82310" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

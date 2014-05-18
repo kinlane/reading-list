@@ -7,6 +7,3 @@ domain: puppetlabs.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://puppetlabs.com/blog/what-heartbleed-tells-us-need-for-it-automation" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: www.wufoo.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.wufoo.com/2014/05/07/magi-metrics-microsoft-excel/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

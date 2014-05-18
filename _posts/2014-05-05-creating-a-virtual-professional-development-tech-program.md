@@ -7,6 +7,3 @@ domain: content.easybib.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://content.easybib.com/integrating-tech-with-teachers-students/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

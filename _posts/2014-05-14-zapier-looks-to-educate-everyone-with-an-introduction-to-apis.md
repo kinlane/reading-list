@@ -7,6 +7,3 @@ domain: apievangelist.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apievangelist.com/2014/05/14/zapier-looks-to-educate-everyone-with-an-introduction-to-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

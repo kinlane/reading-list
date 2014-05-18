@@ -7,6 +7,3 @@ domain: blog.datasift.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.datasift.com/2014/04/15/milestone-for-social-data-market/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

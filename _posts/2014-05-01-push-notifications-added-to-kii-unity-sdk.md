@@ -7,6 +7,3 @@ domain: blog.kii.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.kii.com//p=3583" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

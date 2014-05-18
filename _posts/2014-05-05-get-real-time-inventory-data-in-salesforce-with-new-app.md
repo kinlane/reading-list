@@ -7,6 +7,3 @@ domain: blog.fishbowlinventory.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://blog.fishbowlinventory.com/2014/05/05/get-real-time-inventory-data-in-salesforce-with-new-app/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

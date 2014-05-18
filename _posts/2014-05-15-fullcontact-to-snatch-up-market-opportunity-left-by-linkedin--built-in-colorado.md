@@ -7,6 +7,3 @@ domain: www.builtincolorado.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.builtincolorado.com/blog/fullcontact-s-new-card-reader-snatch-market-opportunity-left-linkedin" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

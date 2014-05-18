@@ -7,6 +7,3 @@ domain: www.opensecrets.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.opensecrets.org/news/2014/04/final-push-for-data-act.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

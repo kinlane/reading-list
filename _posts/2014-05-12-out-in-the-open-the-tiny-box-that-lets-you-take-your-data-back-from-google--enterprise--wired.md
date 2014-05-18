@@ -7,6 +7,3 @@ domain: www.wired.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://www.wired.com/2014/05/out-in-the-open-indie-box/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

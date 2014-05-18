@@ -7,6 +7,3 @@ domain: nbviewer.ipython.org
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://nbviewer.ipython.org/gist/psychemedia/3ee6f5d1d0a337941ee3/demoTemplatedTableExportFormatter.ipynb" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: www.twilio.com
 image: 
 ---
 
-<p></p>
-<center><p><a href="https://www.twilio.com/blog/2014/05/twilio-voice-and-sms-enabled-numbers-in-19-countries-out-of-beta-nt.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-

@@ -7,6 +7,3 @@ domain: apimetrics.io
 image: 
 ---
 
-<p></p>
-<center><p><a href="http://apimetrics.io/2014/05/07/regional-api-performance-testing-new-feature/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
