@@ -1,0 +1,13 @@
+---
+layout: post
+title: 'Messente API: Always Use A Backup DNS Solution'
+url: http://apievangelist.com/2014/11/05/messente-api-always-use-a-backup-dns-solution/
+source: http://apievangelist.com/2014/11/05/messente-api-always-use-a-backup-dns-solution/
+domain: apievangelist.com
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/apievangelist-com20141105messente-api-always-use-a-backup-dns-solution.png
+---
+
+<p>I found the DNS implementation over at the Messente SMS API interesting, and worth of sharing for deeper evaluation.Ive been considering the various approaches by API providers when crafting their domains, or subdomains for API access heavily over the last couple weeks.During some research time today I stumbled across the Messente SMS API which opts to provide two domains for making HTTP(S) requests of their API:
+Messente provides a little disclaimer to handle the developer side of manual load-balancing these API calls:
+These two domains have the same final destination regarding the API functions.In order to ensure that your requests always reach Messente API services, please use one of them as primary and the second one as backup.Both API domains work as equal, but in case of any unexpected downtime with one of them (HTTP 5xx), the other one must be used on client side.</p>
+
